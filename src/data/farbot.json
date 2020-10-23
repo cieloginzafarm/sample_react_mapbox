@@ -1,0 +1,54 @@
+{
+  "SENSOR": [
+    {
+      "coordinates": {
+        "latitude": 36.121198,
+        "longitude": 139.215614
+      },
+      "date": "2020/09/24 16:49:05",
+      "temperature": 26.93,
+      "humidity": 60.87,
+      "co2": 403
+    },
+    {
+      "coordinates": {
+        "latitude": 36.12123,
+        "longitude": 139.215685
+      },
+      "date": "2020/09/24 16:49:08",
+      "temperature": 26.93,
+      "humidity": 60.79,
+      "co2": 400
+    },
+    {
+      "coordinates": {
+        "latitude": 36.121225,
+        "longitude": 139.215767
+      },
+      "date": "2020/09/24 16:49:11",
+      "temperature": 26.96,
+      "humidity": 60.77,
+      "co2": 400
+    },
+    {
+      "coordinates": {
+        "latitude": 36.121215,
+        "longitude": 139.215872
+      },
+      "date": "2020/09/24 16:49:14",
+      "temperature": 26.91,
+      "humidity": 61.02,
+      "co2": 400
+    },
+    {
+      "coordinates": {
+        "latitude": 36.121153,
+        "longitude": 139.216009
+      },
+      "date": "2020/09/24 16:49:17",
+      "temperature": 26.91,
+      "humidity": 60.83,
+      "co2": 404
+    }
+  ]
+}
